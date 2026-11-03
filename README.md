@@ -1,5 +1,5 @@
 # 👤 About Me:
-Hi! I'm **Melvern**, an Informatics Student who is passionate about **Cybersecurity and Information Security**. Currently in my early semesters, I'm focusing on building a strong foundation in computer networking, systems security, and problem-solving through hands-on learning and CTFs.<br><br>
+Hi! I'm **Melvern**, an Informatics Student who is passionate about **Cybersecurity and Software Engineering**. Currently in my early semesters, I'm focusing on building a strong foundation in computer networking, systems security, and problem-solving through hands-on learning and CTFs.<br><br>
 # 🛡️ What I'm Currently Learning:
 - 🌐 **Networking Fundamentals:** Understanding TCP/IP, OSI Layers, and how data travels across networks.<br>
 - 💻 **Linux & Scripting:** Getting comfortable with the Command Line (CLI), Bash, and basic Python for automation.<br>
